@@ -1,4 +1,4 @@
-[![alt text](https://github.com/garima-rathore/GarimaRathore/blob/master/Copy%20of%20GarimaRathore%20Banner%20HD(1).png)](https://Garimarathore.in/me)
+[![alt text](https://github.com/garima-rathore/GarimaRathore/blob/master/Copy%20of%20GarimaRathore%20Banner%20HD(1).png)]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Php%2C+Linux%E2%9D%A4%EF%B8%8F">
