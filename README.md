@@ -1,4 +1,4 @@
-[![alt text](https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/Copy%20of%20CyberBoyAyush%20Banner%20HD(1).png)](https://cyberboyayush.in/me)
+[![alt text](https://github.com/garima-rathore/GarimaRathore/blob/master/Copy%20of%20GarimaRathore%20Banner%20HD(1).png)](https://garima-rathore.in/me)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Php%2C+Linux%E2%9D%A4%EF%B8%8F">
@@ -33,32 +33,30 @@
 
 
 <div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/garima-rathore/GarimaRathore/blob/master/gifs/Handshake.gif" height="33px" /></h3>
 <center>
-<a href="https://twitter.com/cyberboyayush"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
+<a href="https://twitter.com/rathoreGarima_"><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
 </center> 
 <center>
-<a href="mailto:contact@cyberboyayush.in"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
+<a href="mailto:contact@rathoregarima253@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
 <center>
-<a href="https://telegram.me/CyberBoyAyush"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
+<a href="https://telegram.me/me_izz_shreef"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
-<center>
-<a href="https://linkedin.com/in/CyberBoyAyush"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
 </center>
 <br>
 <br>
-<a href="https://cyberboyayush.in/"><img src="https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
+<a href="https://garimarathore.in/"><img src="https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
 </center>
 </div>    
 
-### 🙏 Pranam <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
+### 🙏 Pranam <img src="https://github.com/garima-rathore/GarimaRathore/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "Cyber Boy Ayush"
+Name = "Garima Rathore"
 who_i_am = ['Coding = ❣️']
-Age = "19"
+Age = "17"
 Country = "🇮🇳"
 ```
 
@@ -67,13 +65,13 @@ me = "Coding"
 status = "Do Not Disturb!" 
 print(f"{me}, Please {status}")
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garima-rathore&label=Profile%20Views&color=orange&style=flat-square" alt="GarimaRathore" /> </p>
 
-## My Info <img src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Hi.gif" width="30px"></h2>
+## My Info <img src="https://github.com/garima-rathore/GarimaRathore/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/garima-rathore/GarimaRathore/blob/master/designs/multi.gif" width="300" height="300" />
 
-[👋](https://cyberboyayush.in) I'm [CyberBoyAyush](https://telegram.me/CyberBoyAyush),
+[👋](https://garimarathore.in) I'm [Garima Rathore](https://telegram.me/me_izz_shreef),
 
 - 🔭 I’m currently working with Python
 
@@ -83,13 +81,13 @@ print(f"{me}, Please {status}")
 
 - 💬 Ask me about Python/PHP
 
-- 📫 How to reach me: [Ayush Sharma](https://telegram.me/CyberBoyAyush)
+- 📫 How to reach me: [Garima Rathore](https://telegram.me/me_izz_shreef)
 
-- 📫 Reach Me On Twitter: [CyberBoyAyush](https://twitter.com/CyberBoyAyush) 
+- 📫 Reach Me On Twitter: [Garima Rathore](https://twitter.com/rathoreGarima_) 
 
-- 💬 Mail Me : [Here](mailto:contact@cyberboyayush.in)
+- 💬 Mail Me : [Here](mailto:contact@rathoregarima253@gmail.com)
 
-- 👯 Join Telegram Channel : [Here](https://t.me/ayushbots)
+- 👯 Join Telegram Channel : [Here](https://t.me/shinchan_the_h4ch3r)
 
 ## My GitHub Stats, Streak and Trophy💛
 
@@ -97,13 +95,13 @@ print(f"{me}, Please {status}")
 <summary>Click Here❤️</summary>
 <br>
     
-![CyberBoyAyush Git Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&include_all_commits=true&count_private=true&theme=highcontrast)
+![Garima Rathore Git Stats](https://github-readme-stats.vercel.app/api?username=garima-rathore&include_all_commits=true&count_private=true&theme=highcontrast)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberboyayush&theme=chartreuse-dark&hide_border=True" alt="Cyberboyayush" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garima-rathore&theme=chartreuse-dark&hide_border=True" alt="Garima rathore" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garima-rathore&layout=compact&theme=radical)](https://github.com/garima-rathore)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CyberBoyAyush&theme=onedark)](https://github.com/CyberBoyAyush)
+[![trophy](https://github-profile-trophy.vercel.app/?username=garima-rathore&theme=onedark)](https://github.com/garima-rathore)
 
 </details>
     
@@ -115,25 +113,23 @@ print(f"{me}, Please {status}")
 Follow Me On:
 
 <p align="left">
-<a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://telegram.me/shinchan_the_h4ch3r"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
-<a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/garima-rathore"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/rathoreGarima_"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/CyberBoyAyush"><img src="https://img.shields.io/badge/Linkedin-CyberBoyAyush-blue?style=for-the-badge&logo=Linkedin"></a>
+<a href="https://instagram.com/rathore_garima00"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
+
 </p>
 
 </details>
 
 ## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/ayushsharma.fam@idfcbank)
+[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/cutebaisa456@okhdfcband)
 
 ### Languages and Tools I Love❤️
 <p align="center">
