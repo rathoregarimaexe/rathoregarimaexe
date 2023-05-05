@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/garima-rathore/GarimaRathore/blob/master/Copy%20of%20GarimaRathore%20Banner%20HD(1).png"
+  <img src="https://github.com/garima-rathore/GarimaRathore/blob/main/Copy%20of%20GarimaRathore%20Banner%20HD(1).png"
 
 
 <div align="center">
