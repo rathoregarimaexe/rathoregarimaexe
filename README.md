@@ -65,7 +65,7 @@ print(f"{me}, Please {status}")
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garima-rathore&label=Profile%20Views&color=orange&style=flat-square" alt="GarimaRathore" /> </p>
 
-## My Info <img src="https://github.com/garima-rathore/GarimaRathore/blob/master/gifs/Hi.gif" width="30px"></h2>
+## My Info <img src="https://github.com/rathoregarimaexe/rathoregarimaexe/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/garima-rathore/GarimaRathore/blob/master/designs/multi.gif" width="300" height="300" />
 
@@ -111,23 +111,23 @@ print(f"{me}, Please {status}")
 Follow Me On:
 
 <p align="left">
-<a href="https://telegram.me/shinchan_the_h4ch3r"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://telegram.me/shinchan_the_hacker"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
-<a href="https://github.com/garima-rathore"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rathoregarimaexe"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/rathoreGarima_"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/rathore_garima00"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://instagram.com/who_garimarathore"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
 
 </p>
 
 </details>
 
 ## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/cutebaisa456@okhdfcband)
+[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/rathoregarima253@okicici)
 
 ### Languages and Tools I Love❤️
 <p align="center">
